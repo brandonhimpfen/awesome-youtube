@@ -53,6 +53,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [YouTube Data API](https://developers.google.com/youtube/v3) — Official API for accessing YouTube data.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Command-line YouTube video downloader.
 - [pytube](https://github.com/pytube/pytube) — Python library for downloading YouTube content.
+- [Cyber Collector](https://t.me/cybercollectorbot) — Telegram bot to download YouTube Shorts (no signup required).
 
 ## Learning & Courses
 
