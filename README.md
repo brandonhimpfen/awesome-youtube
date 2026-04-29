@@ -6,7 +6,7 @@
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; 
 [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen)
 
-📌 This repository is archived with Zenodo and can be cited using the DOI above.
+ð This repository is archived with Zenodo and can be cited using the DOI above.
 
 > A curated list of high-quality tools, resources, guides, and communities for YouTube creators, marketers, and enthusiasts.
 
@@ -25,46 +25,46 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Official Resources
 
-- [YouTube Help Center](https://support.google.com/youtube/) — Official support and help articles.
-- [YouTube Creator Academy](https://creatoracademy.youtube.com/) — Free courses for YouTube content creators.
-- [YouTube for Press](https://www.youtube.com/intl/en-GB/about/press/) — Official media resources.
+- [YouTube Help Center](https://support.google.com/youtube/) â Official support and help articles.
+- [YouTube Creator Academy](https://creatoracademy.youtube.com/) â Free courses for YouTube content creators.
+- [YouTube for Press](https://www.youtube.com/intl/en-GB/about/press/) â Official media resources.
 
 ## YouTube Creator Tools
 
-- [TubeBuddy](https://www.tubebuddy.com/) — Browser extension for channel management and optimization.
-- [vidIQ](https://vidiq.com/) — YouTube channel growth and analytics tool.
-- [Canva](https://www.canva.com/youtube/) — Graphics and thumbnails creation for YouTube.
-- [StreamYard](https://streamyard.com/) — Browser-based live streaming tool.
+- [TubeBuddy](https://www.tubebuddy.com/) â Browser extension for channel management and optimization.
+- [vidIQ](https://vidiq.com/) â YouTube channel growth and analytics tool.
+- [Canva](https://www.canva.com/youtube/) â Graphics and thumbnails creation for YouTube.
+- [StreamYard](https://streamyard.com/) â Browser-based live streaming tool.
 
 ## YouTube SEO & Analytics
 
-- [Social Blade](https://socialblade.com/) — Analytics and statistics for YouTube channels.
-- [Noxinfluencer](https://www.noxinfluencer.com/) — Influencer marketing and analytics platform for YouTube.
-- [Keyword Tool for YouTube](https://keywordtool.io/youtube) — Discover keywords and tags for YouTube videos.
+- [Social Blade](https://socialblade.com/) â Analytics and statistics for YouTube channels.
+- [Noxinfluencer](https://www.noxinfluencer.com/) â Influencer marketing and analytics platform for YouTube.
+- [Keyword Tool for YouTube](https://keywordtool.io/youtube) â Discover keywords and tags for YouTube videos.
 
 ## Video Editing Software
 
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) — Professional-grade video editing and color grading software.
-- [Shotcut](https://shotcut.org/) — Open-source, cross-platform video editor.
-- [CapCut](https://www.capcut.com/) — Free all-in-one video editing app.
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) â Professional-grade video editing and color grading software.
+- [Shotcut](https://shotcut.org/) â Open-source, cross-platform video editor.
+- [CapCut](https://www.capcut.com/) â Free all-in-one video editing app.
 
 ## YouTube Bots & APIs
 
-- [YouTube Data API](https://developers.google.com/youtube/v3) — Official API for accessing YouTube data.
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Command-line YouTube video downloader.
-- [pytube](https://github.com/pytube/pytube) — Python library for downloading YouTube content.
+- [YouTube Data API](https://developers.google.com/youtube/v3) â Official API for accessing YouTube data.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) â Command-line YouTube video downloader.
+- [pytube](https://github.com/pytube/pytube) â Python library for downloading YouTube content.
 
 ## Learning & Courses
 
-- [Think Media](https://www.youtube.com/c/ThinkMediaTV) — YouTube channel about growing a YouTube channel and video production tips.
-- [Video Influencers](https://www.youtube.com/c/videoinfluencers) — YouTube marketing and growth strategies.
-- [Justin Brown – Primal Video](https://www.youtube.com/c/primalvideo) — Tutorials on video editing and YouTube growth.
+- [Think Media](https://www.youtube.com/c/ThinkMediaTV) â YouTube channel about growing a YouTube channel and video production tips.
+- [Video Influencers](https://www.youtube.com/c/videoinfluencers) â YouTube marketing and growth strategies.
+- [Justin Brown â Primal Video](https://www.youtube.com/c/primalvideo) â Tutorials on video editing and YouTube growth.
 
 ## Communities & Forums
 
-- [YouTube Community](https://support.google.com/youtube/community) — Official community help forum.
-- [r/YouTube](https://www.reddit.com/r/YouTube/) — Reddit community for general YouTube discussions.
-- [r/NewTubers](https://www.reddit.com/r/NewTubers/) — Community for new YouTube creators.
+- [YouTube Community](https://support.google.com/youtube/community) â Official community help forum.
+- [r/YouTube](https://www.reddit.com/r/YouTube/) â Reddit community for general YouTube discussions.
+- [r/NewTubers](https://www.reddit.com/r/NewTubers/) â Community for new YouTube creators.
 
 ## Related Awesome Lists
 
@@ -81,3 +81,5 @@ Pull requests that do not adhere to the contribution guidelines may be closed.
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
