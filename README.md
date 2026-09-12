@@ -37,7 +37,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [TubeBuddy](https://www.tubebuddy.com/) — Browser extension for channel management and optimization.
 - [vidIQ](https://vidiq.com/) — YouTube channel growth and analytics tool.
 - [Canva](https://www.canva.com/youtube/) — Graphics and thumbnails creation for YouTube.
-- [StreamYard](https://streamyard.com/) — Browser-based live streaming tool.
+- [StreamYard](https://streamyard.com/) — Browser-based live streaming tool. - [The Litter Tray](https://thelittertray.app) — YouTube comment moderation tool with a free tier.
 
 ## YouTube SEO & Analytics
 
