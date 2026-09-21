@@ -48,6 +48,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## Video Editing Software
 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) — Professional-grade video editing and color grading software.
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — Open-source, local-first toolkit for agent-driven video composition, editing, and transcription.
 - [Shotcut](https://shotcut.org/) — Open-source, cross-platform video editor.
 - [CapCut](https://www.capcut.com/) — Free all-in-one video editing app.
 
