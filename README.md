@@ -16,6 +16,7 @@
 _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.com/sponsors/brandonhimpfen)._
 
 ## Contents
+- [ReelWorkshop](https://reelworkshop.com) - Remix your clips into short-form compilations for Reels, Shorts, TikTok, and Facebook.
 
 - [Official Resources](#official-resources)
 - [YouTube Creator Tools](#youtube-creator-tools)
