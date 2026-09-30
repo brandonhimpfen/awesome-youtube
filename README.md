@@ -49,6 +49,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) — Professional-grade video editing and color grading software.
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — Open-source, local-first toolkit for agent-driven video composition, editing, and transcription.
+- [ReelWorkshop](https://reelworkshop.com/) — Browser compilation maker: import your own clips, arrange/trim, preview, export vertical 9:16 H.264 MP4 for TikTok/Reels/Shorts. Editing & preview free; finished export on Starter.
 - [Shotcut](https://shotcut.org/) — Open-source, cross-platform video editor.
 - [CapCut](https://www.capcut.com/) — Free all-in-one video editing app.
 
