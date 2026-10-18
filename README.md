@@ -38,6 +38,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [vidIQ](https://vidiq.com/) — YouTube channel growth and analytics tool.
 - [Canva](https://www.canva.com/youtube/) — Graphics and thumbnails creation for YouTube.
 - [StreamYard](https://streamyard.com/) — Browser-based live streaming tool.
+- [ShortSmash](https://github.com/hydope/shortsmash) — Open-source pipeline that turns a prompt into a published YouTube Short: AI script, 50-language dubbing, karaoke captions, 1-click publish.
 
 ## YouTube SEO & Analytics
 
