@@ -49,6 +49,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) — Professional-grade video editing and color grading software.
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — Open-source, local-first toolkit for agent-driven video composition, editing, and transcription.
+- [ShortSmash](https://github.com/hydope/shortsmash) — Open-source prompt-to-published short videos: AI script, neural voiceover in 50 languages, AI-verified stock footage, karaoke captions, one-click publish to 10 platforms.
 - [Shotcut](https://shotcut.org/) — Open-source, cross-platform video editor.
 - [CapCut](https://www.capcut.com/) — Free all-in-one video editing app.
 
