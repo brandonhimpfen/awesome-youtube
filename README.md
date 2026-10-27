@@ -60,6 +60,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Learning & Courses
 
+- [Creator / 小白油管起步](https://creator.taoliapp.com/) — Chinese-language YouTube starter knowledge base for new creators (setup, policy, monetization), with official-source preference.
 - [Think Media](https://www.youtube.com/c/ThinkMediaTV) — YouTube channel about growing a YouTube channel and video production tips.
 - [Video Influencers](https://www.youtube.com/c/videoinfluencers) — YouTube marketing and growth strategies.
 - [Justin Brown – Primal Video](https://www.youtube.com/c/primalvideo) — Tutorials on video editing and YouTube growth.
