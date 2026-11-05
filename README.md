@@ -43,6 +43,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Social Blade](https://socialblade.com/) — Analytics and statistics for YouTube channels.
 - [Noxinfluencer](https://www.noxinfluencer.com/) — Influencer marketing and analytics platform for YouTube.
+- [YouTube Monetization Time Calculator](https://www.instantmonetize.com/tools/youtube-monetization-time-calculator) — Free calculator that estimates when a channel reaches the YouTube Partner Program under current and 2027 rules.
 - [Keyword Tool for YouTube](https://keywordtool.io/youtube) — Discover keywords and tags for YouTube videos.
 
 ## Video Editing Software
