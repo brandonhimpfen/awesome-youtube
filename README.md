@@ -38,6 +38,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [vidIQ](https://vidiq.com/) — YouTube channel growth and analytics tool.
 - [Canva](https://www.canva.com/youtube/) — Graphics and thumbnails creation for YouTube.
 - [StreamYard](https://streamyard.com/) — Browser-based live streaming tool.
+- [FacelessShorts](https://facelessshorts.io/) — Scripted faceless Shorts series with scheduled publishing to YouTube.
 
 ## YouTube SEO & Analytics
 
