@@ -38,6 +38,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [vidIQ](https://vidiq.com/) — YouTube channel growth and analytics tool.
 - [Canva](https://www.canva.com/youtube/) — Graphics and thumbnails creation for YouTube.
 - [StreamYard](https://streamyard.com/) — Browser-based live streaming tool.
+- [ORANO](https://oranoai.com) — Turns saved YouTube videos, Reels, TikToks, and articles into searchable summaries and step-by-step plans.
 
 ## YouTube SEO & Analytics
 
