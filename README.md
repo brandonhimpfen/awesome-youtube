@@ -39,6 +39,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Canva](https://www.canva.com/youtube/) — Graphics and thumbnails creation for YouTube.
 - [StreamYard](https://streamyard.com/) — Browser-based live streaming tool.
 - [Clips Kitty](https://github.com/ColinGPT9/clips-studio) — Open-source desktop app that turns long videos and streams into captioned YouTube Shorts on your own PC.
+- [YouTube Video to MP4](https://youtubevideotomp4.com/) — Free browser-based tool that converts a YouTube link into a downloadable MP4 file for offline use or re-editing.
 
 ## YouTube SEO & Analytics
 
