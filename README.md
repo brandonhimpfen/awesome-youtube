@@ -39,6 +39,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Canva](https://www.canva.com/youtube/) — Graphics and thumbnails creation for YouTube.
 - [StreamYard](https://streamyard.com/) — Browser-based live streaming tool.
 - [Clips Kitty](https://github.com/ColinGPT9/clips-studio) — Open-source desktop app that turns long videos and streams into captioned YouTube Shorts on your own PC.
+- [Cutora AI](https://usecutora.com/) — AI video editor that turns a raw talking-head recording into a first cut, with captions, for YouTube videos.
 
 ## YouTube SEO & Analytics
 
